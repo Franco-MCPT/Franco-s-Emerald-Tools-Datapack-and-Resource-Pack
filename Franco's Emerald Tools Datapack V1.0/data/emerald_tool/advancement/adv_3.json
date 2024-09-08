@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "emerald_tool:emerald_pickaxe_recipe"
+        }
+      }
+    },
+    "rewards": {
+      "function": "emerald_tool:func_emerald_pickaxe_recipe"
+    }
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " ##",
+    " i#",
+    " i "
+  ],
+  "key": {
+    "#": "minecraft:emerald",
+    "i": "minecraft:stick"
+  },
+  "result": {
+    "id": "minecraft:knowledge_book",
+    "count": 1
+  }
+}

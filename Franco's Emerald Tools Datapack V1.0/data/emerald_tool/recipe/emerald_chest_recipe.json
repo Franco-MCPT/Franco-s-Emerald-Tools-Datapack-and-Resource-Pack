@@ -1,0 +1,45 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "equipment",
+    "pattern": [
+      "# #",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": "minecraft:emerald"
+    },
+    "result": {
+      "id": "minecraft:diamond_chestplate",
+      "count": 1,
+      "components": {
+        "minecraft:equippable": {
+          "slot": "chest",
+          "equip_sound": "item.armor.equip_diamond",
+          "model": "minecraft:emerald"
+        },
+        "minecraft:custom_model_data": 1,
+        "minecraft:item_name": "'Peto de Esmeralda'",
+        "minecraft:attribute_modifiers": {
+          "modifiers": [
+            {
+              "id": "armor5",
+              "type": "minecraft:armor",
+              "amount": 7,
+              "operation": "add_value",
+              "slot": "chest"
+            },
+            {
+              "id": "armor6",
+              "type": "minecraft:armor_toughness",
+              "amount": 1.5,
+              "operation": "add_value",
+              "slot": "chest"
+            }
+          ]
+        },
+        "minecraft:max_damage": 560
+      }
+    }
+  }
+  

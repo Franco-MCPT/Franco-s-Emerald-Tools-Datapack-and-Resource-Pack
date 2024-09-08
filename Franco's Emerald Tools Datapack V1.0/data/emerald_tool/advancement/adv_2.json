@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "emerald_tool:emerald_axe_recipe"
+        }
+      }
+    },
+    "rewards": {
+      "function": "emerald_tool:func_emerald_axe_recipe"
+    }
+  }
+  
