@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 37,
+        "description": [
+            {
+                "color":"green",
+                "text":",Resource pack for the datapack\n "
+            },
+            {
+                "text":"Ver:1.0",
+                "color":"light_purple"
+            }
+        ]
+    }
+}
